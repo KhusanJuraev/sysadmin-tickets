@@ -1,5 +1,5 @@
 import { MiniApp } from "@/components/app/mini-app";
 
-export default function Home() {
+export default function HomePage() {
   return <MiniApp />;
 }
