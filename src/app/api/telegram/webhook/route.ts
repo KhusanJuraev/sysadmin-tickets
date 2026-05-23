@@ -249,7 +249,7 @@ async function sendStepPrompt(chatId: string, user: AppUser, welcome = false) {
   }
 
   const prefix = welcome
-    ? "Добро пожаловать в систему заявок маркетинга.\nПройдите короткую регистрацию, чтобы Mini App мог автоматически заполнить ваш профиль.\n\n"
+    ? "Добро пожаловать в систему заявок отдела технической поддержки.\nПройдите короткую регистрацию, чтобы Mini App мог автоматически заполнить ваш профиль.\n\n"
     : "";
 
   const step = user.onboarding_step as OnboardingStep;
