@@ -1,4 +1,4 @@
-# TURON TELECOM Marketing Tickets
+# Marketing Tickets
 
 Telegram Mini App для внутренних маркетинговых заявок TURON TELECOM.
 
