@@ -1,6 +1,6 @@
 # Marketing Tickets
 
-Telegram Mini App для внутренних маркетинговых заявок TURON TELECOM.
+Telegram Mini App для внутренних заявок
 
 ## Что внутри
 
